@@ -1,3 +1,5 @@
+require_relative '../../config/environment.rb'
+
 module Players
   class Computer < Player
 
