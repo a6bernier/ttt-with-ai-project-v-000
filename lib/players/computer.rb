@@ -8,7 +8,7 @@ module Players
           valid_move << (index + 1)
         end
       end
-      valid_move.to_s
+      valid_move[0].to_s
     end #ends #move
 
 
