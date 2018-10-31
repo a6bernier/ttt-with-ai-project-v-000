@@ -12,11 +12,5 @@ module Players
       end
       valid_move[0].to_s
     end #ends #move
-
-
   end #ends class Computer
-
-
-
-
 end #ends module
